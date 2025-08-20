@@ -5,6 +5,7 @@ function info() {
   return m;
 }
 
+
 export default {
   info
 };
